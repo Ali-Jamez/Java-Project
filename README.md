@@ -1,0 +1,2 @@
+"Flappy Bird Game"   
+This code sets up and displays the main window for the Flappy Bird game. It creates a JFrame, configures its properties (size, location, non-resizable, close operation), adds the FlappyBird game panel to the frame, packs the frame to ensure correct sizing, requests focus for the game panel to handle keyboard input, and finally makes the frame visible. This structure initializes and launches the game interface.
